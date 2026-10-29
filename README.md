@@ -26,6 +26,8 @@ Most of what I build sits on one question, asked from both ends: what does ML ne
 
 ## Currently
 
+Building [NoSlack Labs](https://noslacklabs.com) with Sampoorn Nagpal: an independent engineering lab for FPGAs, embedded hardware and robotics.
+
 Working on the state-augmented fix for E-HVGP v2, keeping PRs flowing into NeMo, and looking for RTL, digital design, or FPGA internships.
 
-[Portfolio](https://sushant-mishra-dtu.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/sushant-mishra-dtu)
+[NoSlack Labs](https://noslacklabs.com) · [Portfolio](https://sushant-mishra-dtu.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/sushant-mishra-dtu)
